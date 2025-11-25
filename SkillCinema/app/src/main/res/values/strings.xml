@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkillCinema</string>
+    <string name="onboarding_learn">Узнавай\nо премьерах</string>
+    <string name="onboarding_create">Создавай\nколлекции</string>
+    <string name="onboarding_share">Делись\nс друзьями</string>
+    <string name="skip">Пропустить</string>
+    <string name="name_application">Skillcinema</string>
+
+</resources>
